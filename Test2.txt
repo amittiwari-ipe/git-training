@@ -1,2 +1,3 @@
 Creating a file called test2
 This is practice of git
+testing
